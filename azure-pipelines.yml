@@ -116,3 +116,4 @@ stages:
               searchFolder: $(Pipeline.Workspace)
               testResultsFiles: '**/test-*.xml'
             displayName: 'Publish test results' 
+            
